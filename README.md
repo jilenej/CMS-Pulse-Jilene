@@ -1,4 +1,7 @@
 # CMS-Pulse-Jilene
+
+Contribution Activity: May 2020 Accessibility Improvements - https://github.com/seanresolute/CMS-EIT/pull/21
+
 CMS Pulse Respository https://github.com/seanresolute/CMS-EIT.git
 
 CMS Employee Information Tool (CMS EIT) rebranded to CMS Pulse
