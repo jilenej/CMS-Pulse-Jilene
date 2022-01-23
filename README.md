@@ -3,7 +3,8 @@ https://github.com/seanresolute/CMS-EIT.git
 
 CMS Employee Information Tool (CMS EIT) rebranded to CMS Pulse
 
-How Might We ... alert Center for Medicare & Medicaid Services (CMS) employees of an emergency with web or mobile notifications? UX Case Study: https://uxfol.io/p/jilenej/03acb715
+How Might We ... alert Center for Medicare & Medicaid Services (CMS) employees of an emergency with web or mobile notifications? 
+UX Case Study: https://uxfol.io/p/jilenej/03acb715
 
 # CMS-EIT
 This is a Node/EJS/Express project that will play the role as the web application. The current design is MVC.
