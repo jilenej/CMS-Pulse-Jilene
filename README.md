@@ -1,5 +1,5 @@
 # CMS-Pulse-Jilene
-https://github.com/seanresolute/CMS-EIT.git
+CMS Pulse Respository https://github.com/seanresolute/CMS-EIT.git
 
 CMS Employee Information Tool (CMS EIT) rebranded to CMS Pulse
 
